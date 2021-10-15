@@ -2182,7 +2182,7 @@ model_ols.summary()
 <tr>
   <th>Kurtosis:</th>       <td> 5.716</td>  <th>  Cond. No.          </th> <td>2.25e+15</td>
 </tr>
-</table><br/><br/>Notes:<br/>[1] R² is computed without centering (uncentered) since the model does not contain a constant.<br/>[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.<br/>[3] The smallest eigenvalue is 4.68e-27. This might indicate that there are<br/>strong multicollinearity problems or that the design matrix is singular.
+</table>
 
 
 
@@ -2315,7 +2315,7 @@ model_ols.summary()
 <tr>
   <th>Kurtosis:</th>       <td> 5.894</td>  <th>  Cond. No.          </th> <td>    1.03</td>
 </tr>
-</table><br/><br/>Notes:<br/>[1] R² is computed without centering (uncentered) since the model does not contain a constant.<br/>[2] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+</table>
 
 
 
