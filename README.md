@@ -6,7 +6,7 @@ Author: Sergej Schweizer
 
 ---
 
-## TOC:
+
 
 # 1. Install packages
 
