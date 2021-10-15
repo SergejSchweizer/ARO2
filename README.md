@@ -286,7 +286,7 @@ tfdv.visualize_statistics(comb_stats)
 # 5. Conclusions
 
 * 1. groups columns in predictors and target dataframes seems to be similar, therefore we can try to map target to predictors
-* 2. etherium_before_start has nearly 79% of missing values (NaN), this column can be deleted
+* 2. etherium_before_start has nearly 79% of missing values (NaN), guess this column can be deleted
 * 3. multiple date columns has missing values, can we do imputation ? (mean, average ?)
 
 
