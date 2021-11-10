@@ -259,7 +259,7 @@ df_raw_predictors.head(5)
 
 
 
-# 4. EDA
+# 4. Understand Column types
 
 
 ```python
